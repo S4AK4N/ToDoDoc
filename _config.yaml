@@ -1,2 +1,4 @@
-title: "TodoリストDocument"
-theme: jekyll-theme-read-the-docs
+title: "ToDo仕様書"
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
