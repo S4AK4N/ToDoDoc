@@ -33,7 +33,7 @@ nav_order: 2
   - 「Topページ」リンク
   - 「タスクカテゴリ削除フォーム」
 ### **実際の画面**
--  **ディフォルト**
+-  **通常時**
 <div style="text-align:center;">
   <img src="/assets/images/form.png" width="75%">
 </div>
@@ -49,6 +49,32 @@ nav_order: 2
 </div>
 
 ---
+
+## 📝 G002:タスク一覧表示画面
+
+- **機能概要**：過去に送信したタスクを一覧と編集,削除を機能を提供
+- **主要UI要素**：
+    - 表形式でタスクを表示
+      - 項目
+        - 状態(完了、未完了)
+        - タスクカテゴリ
+      - 「削除」ボタン
+      - 「編集」ボタン
+    - 「フォームに戻る」ボタン
+
+### 実際の画面
+- **通常時**
+<div style="text-align:center;">
+  <img src="/assets/images/past_table.png" width="75%">
+</div>
+
+- **削除ボタン降下後**
+<div style="text-align:center;">
+  <img src="/assets/images/page_table2.png" width="75%">
+</div>
+
+>　※ 通常画面から削除降下後の画像です。
+
 
 ## 📝 画面ID：画面名
 
