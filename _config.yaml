@@ -3,3 +3,4 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
 repository: S4AK4N/TodoDoc
+baseurl: "/TodoDoc"
