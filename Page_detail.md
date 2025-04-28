@@ -36,17 +36,17 @@ nav_order: 2
 ### **実際の画面**
 -  **通常時**
 <div style="text-align:center;">
-  <img src="/assets/images/form.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/form.png" width="75%">
 </div>
 
 - **プルダウン + 内容入力時**
 <div style="text-align:center;">
-  <img src="/assets/images/form2.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/form2.png" width="75%">
 </div>
 
 - **送信成功時**
 <div style="text-align:center;">
-  <img src="/assets/images/form3.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/form3.png" width="75%">
 </div>
 
 ---
@@ -65,12 +65,12 @@ nav_order: 2
 ### **実際の画面**
 - **通常時**
 <div style="text-align:center;">
-  <img src="/assets/images/past_table.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/past_table.png" width="75%">
 </div>
 
 - **削除ボタン降下後**
 <div style="text-align:center;">
-  <img src="/assets/images/page_table2.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/page_table2.png" width="75%">
 </div>
 
 >　※ 通常画面から削除降下後の画像です。
@@ -93,17 +93,17 @@ nav_order: 2
 ### **実際の画面**
 - **通常時**
 <div style="text-align:center;">
-  <img src="/assets/images/edit_default.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/edit_default.png" width="75%">
 </div>
 
 - **文字入力時**
 <div style="text-align:center;">
-  <img src="/assets/images/edit.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/edit.png" width="75%">
 </div>
 
 - **編集完了時**
 <div style="text-align:center;">
-  <img src="/assets/images/edit_success.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/edit_success.png" width="75%">
 </div>
 
 
@@ -120,22 +120,22 @@ nav_order: 2
 ### **実際の画面**
 - **通常時**
 <div style="text-align:center;">
-  <img src="/assets/images/name_registration.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/name_registration.png" width="75%">
 </div>
 
 - **文字入力時**
 <div style="text-align:center;">
-  <img src="/assets/images/name_registration_input.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/name_registration_input.png" width="75%">
 </div>
 
 - **登録完了時**
 <div style="text-align:center;">
-  <img src="/assets/images/name_registration_input.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/name_registration_input.png" width="75%">
 </div>
 
 - **登録成功時**
 <div style="text-align:center;">
-  <img src="/assets/images/name_registration_success.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/name_registration_success.png" width="75%">
 </div>
 
 
@@ -151,17 +151,17 @@ nav_order: 2
   ### **実際の画面**
 - **通常時**
 <div style="text-align:center;">
-  <img src="/assets/images/delete.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/delete.png" width="75%">
 </div>
 
 - **プルダウン展開時**
 <div style="text-align:center;">
-  <img src="/assets/images/delete_open.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/delete_open.png" width="75%">
 </div>
 
 - **削除成功時**
 <div style="text-align:center;">
-  <img src="/assets/images/delete_success.png" width="75%">
+  <img src="{{ site.baseurl }}/assets/images/delete_success.png" width="75%">
 </div>
 
 <!--## 📝 **画面ID：画面名**
